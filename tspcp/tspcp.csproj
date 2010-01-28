@@ -44,8 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbstractConsumer.cs" />
-    <Compile Include="AbstractProducer.cs" />
+    <Compile Include="AbstractQueueConsumer.cs" />
+    <Compile Include="AbstractQueueProducer.cs" />
+    <Compile Include="Dummies.cs" />
+    <Compile Include="SynchronizedQueue.cs" />
     <Compile Include="TestMain.cs" />
   </ItemGroup>
 </Project>
