@@ -17,12 +17,9 @@ should be running out of the box. If you're familiar with the usage
 already, you can just copy the actual source files from the project 
 folder into your own project.
 
-* SynchronizedQueue.cs: Provides a thread-safe queue that's used by all 
-producers and consumers
-* AbstractQueueProducer.cs: Abstract base class for an easy 
-implementation of a producer
-* AbstractQueueConsumer.cs: Abstract base class for an easy 
-implementation of a consumer
+* SynchronizedQueue.cs: Provides a thread-safe, generic queue
+* AbstractQueueProducer.cs: Abstract base class for producers
+* AbstractQueueConsumer.cs: Abstract base class for consumers
 
 == Development
 
