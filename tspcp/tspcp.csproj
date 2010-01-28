@@ -39,11 +39,13 @@
   </Target>
   -->
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractConsumer.cs" />
+    <Compile Include="AbstractProducer.cs" />
+    <Compile Include="TestMain.cs" />
   </ItemGroup>
 </Project>

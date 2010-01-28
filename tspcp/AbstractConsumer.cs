@@ -1,0 +1,7 @@
+﻿
+namespace tspcp
+{
+    class AbstractConsumer
+    {
+    }
+}
