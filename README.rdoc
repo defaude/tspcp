@@ -30,3 +30,14 @@ This project can be found on github at:
 If you have any annotations or additions, feel free to contact me - 
 feedback is always very welcome! You can also fork my project and 
 modify it just as you wish :)
+
+== License
+
+This work is licensed under the Creative Commons Attribution 3.0 Germany 
+License. To view a copy of this license, visit 
+http://creativecommons.org/licenses/by/3.0/de/ or send a letter to 
+
+  Creative Commons, 
+  171 Second Street, Suite 300, 
+  San Francisco, California, 94105, 
+  USA
